@@ -7,7 +7,11 @@ const emojiDictionary = {
   "🏞️": "National Park",
   "🏟️": "Stadium",
   "🏪": "Convenience Store",
-  "🏫": "School"
+  "🏫": "School",
+  "🏭": "Factory",
+  "🏰": "Castle",
+  "⛲": "Fountain",
+  "🏦": "Bank"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
